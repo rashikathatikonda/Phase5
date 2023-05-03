@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "name": "Rashika",
+      "place": "US",
+      "date": "02/05/2023",
+      "id": 1
+    },
+    {
+      "name": "Swapna",
+      "place": "Uk",
+      "date": "03/05/2023",
+      "id": 2
+    },
+    {
+      "name": "Ramu",
+      "place": "Delhi",
+      "date": "04/05/2023",
+      "id": 3
+    },
+    {
+      "name": "Rahul",
+      "place": "Kerala",
+      "date": "05/05/2023",
+      "id": 4
+    }
+  ]
+}
